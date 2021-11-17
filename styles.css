@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    color: #3A3F42;
+    color: #000;
     text-align: center;
 }
 
@@ -20,6 +20,11 @@ a {
 
 a:hover {
     color: #000;
+}
+
+p {
+    color: #000;
+    text-align: center;
 }
 
 .assignments {
